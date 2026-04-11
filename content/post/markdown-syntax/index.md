@@ -3,13 +3,14 @@ title: Markdown Syntax Guide
 date: 2023-09-07
 description: Sample article showcasing basic Markdown syntax and formatting for HTML elements.
 tags: 
-    - markdown
-    - css
-    - html
-    - themes
+    - 1999
+    - 明日方舟
+    - 洛克王国
+    - 三角洲
 categories:
-    - themes
-    - syntax
+    - 测试内容
+    - 闲谈
+    - 学习记录
 ---
 
 This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.
