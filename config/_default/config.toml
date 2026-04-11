@@ -1,5 +1,5 @@
 # Change baseurl before deploy
-baseurl      = "/"
+baseurl      = "https://V2tin19.github.io/Alice_Springs"
 languageCode = "zh-CN"
 title        = "像爱丽丝的小镇"
 
