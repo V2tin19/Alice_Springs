@@ -18,8 +18,8 @@ SortBy              = "default"
     lastUpdated = ":date_full"
 
 [sidebar]
-    emoji    = "⛈️"
-    subtitle = "巨型摆子，课外书高手，互联网依赖，刷题记录自大学以来为0，主攻计算机神秘学"
+    emoji    = "☔︎"
+    subtitle = "巨型摆子，课外书高手，主攻计算机神秘学"
     avatar   = "img/avatar.png"
 
 [article]
