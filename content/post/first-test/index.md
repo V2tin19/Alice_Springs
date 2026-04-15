@@ -25,4 +25,6 @@ weight: 1       # You can add weight to some posts to override the default sorti
 
 上一次预备用copilot写自动改好提交时间的功能失败了，现在回退了版本又提交一次，顺便改了一下侧边栏。昨天尝试本地运行hugo来进行本地编译立即渲染，也失败了，ai帮忙debug也无法完成热重载，而且还给仓库塞了不必要的东西，我也分不清哪些是必要的，所以索性回退了。
 
+回退过后决定以后要编辑页面都在GitHub上编了。
+
 4/15
