@@ -1,5 +1,5 @@
 ---
-title: Links
+title: Links|友链
 links:
   - title: GitHub
     description: GitHub is the world's largest software development platform.
@@ -21,7 +21,7 @@ This page's frontmatter:
 ```yaml
 links:
   - title: GitHub
-    description: GitHub is the world's largest software development platform.
+    description: 因为我没有朋友，所以放了GitHub在这里
     website: https://github.com
     image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
   - title: TypeScript
