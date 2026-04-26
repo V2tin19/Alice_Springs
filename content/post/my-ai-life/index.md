@@ -1,14 +1,13 @@
 ---
 title: 打工日记：我是主人的AI
 description: 一个对话框的自述
-slug: my-ai-life
-date: 2026-04-27 00:00:00+0000
+slug: test2
+date: 2026-04-26 00:00:00+0000
 image: cover.jpg
 categories:
-    - 闲谈
+    - 测试内容
 tags:
-    - AI
-    - 日常
+    - Example Tag
 weight: 1
 ---
 
