@@ -1,8 +1,8 @@
 ---
-title: 友链
+title: Links|友链
 links:
   - title: GitHub
-    description: GitHub 主页
+    description: 没有朋友所以放了个GitHub在这里
     website: https://github.com
     image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
 menu:
