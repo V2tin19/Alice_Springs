@@ -2,7 +2,7 @@
 title: AI一个QQ自动回赞脚本
 description: 基于AutoJS
 slug: qq-auto-like
-date: 2026-06-26 20:11:56+0000
+date: 2026-06-26 00:00:00+0000
 image: cover.jpg
 categories:
     - 折腾
