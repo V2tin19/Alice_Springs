@@ -55,3 +55,11 @@ SortBy              = "default"
 
     # See all the available configurations at https://github.com/CaiJimmy/hugo-theme-stack/blob/master/config/_default/params.toml
     # Copy the configurations you need from there and paste it here.
+
+
+# Disable image processing to avoid resize errors with certain image formats
+[params.imageProcessing]
+  [params.imageProcessing.content]
+    enabled = false
+  [params.imageProcessing.cover]
+    enabled = false
